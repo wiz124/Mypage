@@ -1,7 +1,7 @@
 
 {% include navigation.html %}
-### Review ticket:
-Tech talk 0:
+
+### Tech talk 0:
 
     challenge 1:
         try catch block 
